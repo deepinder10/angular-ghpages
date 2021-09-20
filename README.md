@@ -1,3 +1,6 @@
+This repo is part of my blog which is hosted here
+https://deepinder.me/how-to-deploy-a-react-angular-vue-project-to-github-pages
+
 # AngularGhpages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
